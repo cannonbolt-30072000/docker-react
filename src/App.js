@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was changed, cant connect, it fucking works
+          Triggering Deployment
         </a>
       </header>
     </div>
